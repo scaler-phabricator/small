@@ -1,6 +1,6 @@
 # MNML
 
-View the project page at [http://mn-ml.cc]("http://mn-ml.cc", "MNML - A light-weight responsive html5 boilerplate.")
+View the project page at [http://mn-ml.cc](http://mn-ml.cc, "MNML - A light-weight responsive html5 boilerplate.")
 
 MNML is a starting point for responsive HTML5 SASS projects.
 Focused on mobile readability.
@@ -38,7 +38,7 @@ with.
     mnml/
         ├── README.md
         ├── css
-        │   └── i.css                 (8 kb - 2.6kb gzipped)
+        │   └── i.css                 (2 kb minified - 1.2kb gzipped)
         ├── index.html                (386 bytes)
         └── sass                      CSS source
             ├── _normalize.scss
